@@ -15,6 +15,7 @@ The project covers data exploration, preprocessing, model selection, hyperparame
 3. Model selection, training, testing, and evaluation
   
 ### :woman_technologist: Tools Used
+MySQL
 Python
 - Pandas
 - Matplotlib
@@ -22,4 +23,3 @@ Python
 - XG Boost
 - SHAP
 - SQL Alchemy
-My SQL
