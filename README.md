@@ -5,7 +5,7 @@ The present study leverages bike hiring information from [Kaggle](https://www.ka
 
 ### :bulb: Description
 The goal of this project is to predict customer churn for a telecommunications company using machine learning techniques, which analyse customer demographic information, service usage patterns, and account details.
-Churn reduction is crucial in improving customer retention and minimisng customer acquisition costs.
+Churn reduction is crucial in improving customer retention and minimising customer acquisition costs.
 The project covers data exploration, preprocessing, model selection, hyperparameter tuning, model evaluation.
 
 ### :white_check_mark: Contents
